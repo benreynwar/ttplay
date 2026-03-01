@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2024 Uri Shaked
  * SPDX-License-Identifier: Apache-2.0
+ * Butchered by Ben Reynwar in 2026.
  */
 
 `default_nettype none
